@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@robb_j/gamedoy": "^0.2.0",
+    "pixi.js": "^7.3.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  },
+  "scripts": {
+    "start": "npx parcel index.html"
+  }
+}
